@@ -1,0 +1,15 @@
+{
+  "name": "@lejeunerenard/dailies-db-json",
+  "version": "1.0.0",
+  "description": "A generic JSON based database for dailies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sean Zellmer <sean@lejeunerenard.com> (http://lejeunerenard.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "minimist": "^1.2.0"
+  }
+}
